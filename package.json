@@ -5,7 +5,8 @@
   "main": "public/index.html",
   "dependencies": {
     "caniuse-db": "^1.0.30000692",
-    "grunt-shell": "^2.1.0"
+    "grunt-shell": "^2.1.0",
+    "gsap": "^2.0.1"
   },
   "repository": {
     "type": "git",
