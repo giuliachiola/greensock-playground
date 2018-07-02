@@ -1,0 +1,9 @@
+:root {
+  --max-height: 300px;
+  --max-width: 400px;
+}
+
+svg {
+  max-height: var(--max-height);
+  max-width: var(--max-width);
+}
