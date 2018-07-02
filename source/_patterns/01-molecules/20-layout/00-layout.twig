@@ -1,0 +1,53 @@
+{# Componente di patternlab NON utilizzato --> classi che iniziano con d = debug #}
+<h3>Wrappers</h3>
+
+<div class="l-mainWrapper debug-borders-nested">
+  <p><i>l-mainWrapper</i></p>
+  <p>{{ description }}</p>
+</div>
+
+<hr>
+
+<h3>Columns</h3>
+
+<p><i>l-cols > 2 l-col</i></p>
+<div class="l-cols debug-borders-nested">
+  <div class="l-col">{{ description }}</div>
+  <div class="l-col">{{ description }}</div>
+</div>
+
+<p><i>l-cols > 3 l-col</i></p>
+<div class="l-cols debug-borders-nested">
+  <div class="l-col">{{ excerpt.short }}</div>
+  <div class="l-col">{{ excerpt.long }}</div>
+  <div class="l-col">{{ description }}</div>
+</div>
+
+<h3>Box</h3>
+<p><i>l-cols > 2 l-col o-box</i></p>
+<div class="l-cols debug-borders-nested">
+  <div class="l-col o-box">{{ description }}</div>
+  <div class="l-col o-box">{{ excerpt.medium }}</div>
+</div>
+
+<p><i>l-cols > 2 l-col o-box o-box--padding</i></p>
+<div class="l-cols debug-borders-nested">
+  <div class="l-col o-box o-box--padding">{{ excerpt.short }}</div>
+  <div class="l-col o-box o-box--padding">{{ excerpt.medium }}</div>
+</div>
+
+<p><i>l-cols > 2 l-col > 3 l-col o-box o-box--padding</i></p>
+<div class="l-cols debug-borders-nested">
+  <div class="l-col">
+    <div class="o-box o-box--padding">
+      {{ description }}
+    </div>
+  </div>
+  <div class="l-col">
+    <div class="l-cols">
+      <div class="l-col o-box">{{ headline.short }}</div>
+      <div class="l-col o-box">{{ excerpt.short }}</div>
+      <div class="l-col o-box">{{ headline.medium }}</div>
+    </div>
+  </div>
+</div>

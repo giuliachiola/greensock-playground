@@ -1,0 +1,24 @@
+{
+  "mainColors": [
+    {
+      "name": "$color-mauve",
+      "hex": "#E8B5FF"
+    },
+    {
+      "name": "$color-hot-pink",
+      "hex": "#FF61A0"
+    },
+    {
+      "name": "$color-smoky",
+      "hex": "#654E76"
+    },
+    {
+      "name": "$color-van-cleef",
+      "hex": "#4A0B0B"
+    },
+    {
+      "name": "$color-gradient-pink",
+      "hex": "linear-gradient(251deg, #FF61A0, #E8B5FF)"
+    }
+  ]
+}

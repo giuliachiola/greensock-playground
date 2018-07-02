@@ -1,0 +1,19 @@
+# javascript/json
+[*.{js,json}]
+indent_style = space
+indent_size = 2
+
+# css/scss
+[*.{css,scss}]
+indent_style = space
+indent_size = 2
+
+# markdown
+[*.md]
+indent_style = space
+indent_size = 2
+
+# html/mustache/twig
+[*.{html,mustache,twig}]
+indent_style = space
+indent_size = 2

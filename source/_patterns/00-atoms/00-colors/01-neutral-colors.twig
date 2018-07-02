@@ -1,0 +1,12 @@
+<ul class="sg-colors">
+  {% for color in neutralColors %}
+    <li>
+      <span class="sg-swatch" style="background: {{ color.hex }}"></span>
+      <span class="sg-label">
+        {{ color.name }}
+        <br /> {{ color.hex }}
+      </span>
+    </li>
+  {% endfor %}
+</ul>
+

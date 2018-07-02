@@ -1,0 +1,32 @@
+{
+  "neutralColors": [
+    {
+      "name": "$color-concrete",
+      "hex": "#F2F2F2"
+    },
+    {
+      "name": "$color-dove-gray",
+      "hex": "#707070"
+    },
+    {
+      "name": "$color-emperor",
+      "hex": "#555555"
+    },
+    {
+      "name": "$color-tundora",
+      "hex": "#464646"
+    },
+    {
+      "name": "$color-mine-shaft",
+      "hex": "#383838"
+    },
+    {
+      "name": "$color-white",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "$color-black",
+      "hex": "#000000"
+    }
+  ]
+}
