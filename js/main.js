@@ -1,3 +1,7 @@
+/* Run in command line
+browser - sync start--server--files "js/*.js"
+*/
+
 // #animation - 1
 let yellowPath = document.querySelectorAll('#animation-1 #yellow path');
 let greenPath = document.querySelectorAll('#animation-1 #green path');
