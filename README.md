@@ -8,6 +8,7 @@ Mini exercises to animate with GreenSock.
 | Deploy preview   | /                                                                                                                             |
 | Project typology | 📒  Step by step from tutorial |
 
+https://user-images.githubusercontent.com/31881246/132101187-ceaed730-421d-4ed5-aba6-d19d51e3aba7.mp4
 
 
 ## 🔥 Tech stack
